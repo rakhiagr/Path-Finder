@@ -1,6 +1,6 @@
 {
-  "name": "pathfinding-visualizer",
-  "homepage": "https://github.com/rakhiagr/Path-Finder",
+  "name": "Path-Finder",
+  "homepage": "http://rakhiagr.github.io/Path-Finder",
   "version": "0.1.0",
   "license": "MIT",
   "private": true,
