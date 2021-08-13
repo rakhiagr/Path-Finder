@@ -25,8 +25,8 @@
 ## Build Guide
 
 ```bash
-git clone https://github.com/rakhiagr/Path-Finder
-cd Path-Finder
+git clone https://github.com/rakhiagr/path-finder
+cd path-finder
 yarn install
 yarn start
 ```

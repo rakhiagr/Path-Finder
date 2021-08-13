@@ -40,11 +40,7 @@ const Container = () => {
         <meta property="og:type" content="website" />
         <meta
           property="og:url"
-          content="https://github.com/rakhiagr/Path-Finder"
-        />
-        <meta
-          property="og:image"
-          content="https://raw.githubusercontent.com/baeharam/Pathfinding-Visualizer/master/images/visualizer.gif"
+          content="https://github.com/rakhiagr/path-finder"
         />
       </Helmet>
       <header className="header">
@@ -57,7 +53,7 @@ const Container = () => {
       <footer className="footer">
         <p className="footer__author">Made by Rakhi Agrawal</p>
         <a
-          href="https://github.com/rakhiagr"
+          href="https://github.com/rakhiagr/path-finder"
           target="_blank"
           rel="noopener noreferrer"
         >
